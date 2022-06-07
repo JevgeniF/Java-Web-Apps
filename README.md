@@ -1,4 +1,4 @@
 # Java-Web-Apps
 Java, Spring, Gradle
 
-Simple backend project on java for web apps
+Simple backend project in java for web apps
